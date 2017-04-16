@@ -194,7 +194,7 @@ System.Runtime.InteropServices.SEHException (0x80004005): External component has
 the game doesn't handle very well). This typically isn't caused by SMAPI itself.
 
 Common solutions:
-
+* Install/reinstall Microsoft XNA Framework 4.0 Redistributeable : https://www.microsoft.com/en-us/download/details.aspx?id=20914
 * Close your browsers and any other open application before playing.
 * Remove any mods intended to change the game's audio (e.g. more music).
 
